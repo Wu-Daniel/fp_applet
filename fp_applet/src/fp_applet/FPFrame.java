@@ -1,9 +1,6 @@
 package fp_applet;
 
 import javax.swing.*;
-import java.awt.Image;
-import java.awt.*;
-import java.awt.event.*;
 
 public class FPFrame extends JFrame {
 
