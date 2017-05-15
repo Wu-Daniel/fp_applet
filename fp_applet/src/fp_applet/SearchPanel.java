@@ -35,6 +35,7 @@ public class SearchPanel extends JPanel{
 		ActionListener actionListener2 = new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				query = textField.getText();
+				
 			}
 		};
 		
